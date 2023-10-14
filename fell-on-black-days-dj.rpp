@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.82/OSX64-clang" 1696924654
+<REAPER_PROJECT 0.1 "6.82/OSX64-clang" 1696924847
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,8 +16,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 65.79505346732417 0 0
+  CURSOR 11.88118811881188
+  ZOOM 64.6799986791374 74 0
   VZOOMEX 3 0
   USE_REC_CFG 0
   RECMODE 1
@@ -2189,6 +2189,52 @@
     MIDIOUT -1
     MAINSEND 1 0
   >
+  <TRACK {1D4F8951-3E2C-4711-B183-BD32621E7A28}
+    NAME SONG
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1D4F8951-3E2C-4711-B183-BD32621E7A28}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 4.75247524752475
+      SNAPOFFS 0
+      LENGTH 282.94568070288415
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3B0118F5-2D93-47A9-8752-063ABFE98B5A}
+      IID 6
+      NAME fell-on-black-days.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.08098596378247
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {67FF5939-0BE2-4E0A-A823-F0A4D03F6C9F}
+      <SOURCE MP3
+        FILE "audio-in/fell-on-black-days.mp3" 1
+      >
+    >
+  >
   <TRACK {D93C3D07-C34D-41B4-9290-D1F6771A0E58}
     NAME VOX
     PEAKCOL 16576
@@ -2233,53 +2279,6 @@
       <SOURCE VIDEO
         FLIP 0 1
         FILE "audio-in/fell-on-black-days-vocals-E minor-101bpm-442hz.m4a"
-      >
-    >
-  >
-  <TRACK {F8804A6D-8BE3-4746-B755-4CEEE7053548}
-    NAME METRONOME
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {F8804A6D-8BE3-4746-B755-4CEEE7053548}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 4.75247524752475
-      SNAPOFFS 0
-      LENGTH 282.94601403621755
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {3EBEF867-23FA-4572-A634-ED07AA341BC8}
-      IID 3
-      NAME "fell-on-black-days-metronome-E minor-101bpm-442hz.m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08098596378247
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {B9ED947D-3293-4EF4-BA9D-66EDA1A31921}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "audio-in/fell-on-black-days-metronome-E minor-101bpm-442hz.m4a"
       >
     >
   >
@@ -2374,52 +2373,6 @@
       <SOURCE VIDEO
         FLIP 0 1
         FILE "audio-in/fell-on-black-days-other-E minor-101bpm-442hz.m4a"
-      >
-    >
-  >
-  <TRACK {1D4F8951-3E2C-4711-B183-BD32621E7A28}
-    NAME SONG
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 -1 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {1D4F8951-3E2C-4711-B183-BD32621E7A28}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 4.75247524752475
-      SNAPOFFS 0
-      LENGTH 282.94568070288415
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {3B0118F5-2D93-47A9-8752-063ABFE98B5A}
-      IID 6
-      NAME fell-on-black-days.mp3
-      VOLPAN 1 0 1 -1
-      SOFFS 0.08098596378247
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {67FF5939-0BE2-4E0A-A823-F0A4D03F6C9F}
-      <SOURCE MP3
-        FILE "audio-in/fell-on-black-days.mp3" 1
       >
     >
   >
